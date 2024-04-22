@@ -1,0 +1,23 @@
+Solid Symposium Script:
+
+S1 - Genome sequencing in Health Care
+	Sequencing over the past 20 years has gotten A LOT cheaper
+	There are now companies claiming we can attain a $100 WGS
+	
+	The decreses in costs have also been correlated/coincided with an increase medical applications
+		i.e. Cancer stuff / Pharmacogenomics / Rare diseases / etc.
+	With these aynergistic advances, "Personalized Medicine" is becoming more "realistic"
+
+S2 - The challenges ahead (scaling)
+	storage (need graphic)
+	privacy / governance
+	interoperability
+	
+	Data SHARING ?
+
+S3 - A tangable example --> 
+	0. A physician has a new patient who was recently hospitalized with DVT (they need to be put on a blood thinner)
+	1. Warfarin is the most popular -- but outcomes are known to be linked to the presence of specific genotypes
+		(CYP2C9 and VKORC1)
+	2. So, the physician needs the patient's genomic info for presctiption
+	3. Also, the treating physician is not the patient's primary physician -- thus the other physician should be consulted
